@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(120deg, #667eea, #764ba2);
+  min-height: 100vh;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.btn-primary {
+  background-color: #5a67d8;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #434190;
+}
