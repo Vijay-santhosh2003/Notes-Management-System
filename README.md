@@ -34,4 +34,39 @@ A full-stack Notes Management web application built using **React**, **Node.js**
 ---
 
 ## 🗂 Project Structure
+Notes-Management-System/
+├── backend/
+│ ├── controllers/
+│ ├── routes/
+│ ├── middleware/
+│ ├── config/
+│ └── server.js
+└── frontend/
+├── components/
+├── pages/
+├── context/
+├── services/
+└── src/
 
+
+---
+
+## 🔐 Security
+
+- Passwords are hashed using bcrypt
+- JWT used for authentication
+- Protected APIs using middleware
+- `.env` file excluded using `.gitignore`
+
+---
+
+## ▶️ How to Run the Project
+
+### Backend
+```bash
+cd backend
+npm install
+npm start
+cd frontend
+npm install
+npm start
