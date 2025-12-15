@@ -19,12 +19,14 @@ A full-stack Notes Management web application built using **React**, **Node.js**
 ## 🛠 Tech Stack
 
 ### Frontend
+
 - React.js
 - React Router DOM
 - Bootstrap
 - Fetch API
 
 ### Backend
+
 - Node.js
 - Express.js
 - MySQL
@@ -34,6 +36,7 @@ A full-stack Notes Management web application built using **React**, **Node.js**
 ---
 
 ## 🗂 Project Structure
+
 Notes-Management-System/
 ├── backend/
 │ ├── controllers/
@@ -47,7 +50,6 @@ Notes-Management-System/
 ├── context/
 ├── services/
 └── src/
-
 
 ---
 
@@ -63,6 +65,7 @@ Notes-Management-System/
 ## ▶️ How to Run the Project
 
 ### Backend
+
 ```bash
 cd backend
 npm install
@@ -83,3 +86,4 @@ npm start
 
 ### ➕ Add Note
 ![Add Note](screenshots/add-note.png)
+```
